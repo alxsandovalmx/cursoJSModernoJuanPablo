@@ -7,9 +7,10 @@ Este repositorio contiene todos proyectos del curso: JavaScript Moderno Guía De
 [Link del Curso](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
 
 Proyectos:
-- **Proyecto 01 - Carrito de Compras:** [Link del Proyecto Carrito de Compras](https://pj1carritodecomprasjs.netlify.app)
+- **Proyecto 01 - Carrito de Compras:** [Link del Proyecto](https://pj1carritodecomprasjs.netlify.app)
 
-- **Proyecto 02 - Simulacion de envio de email ( Reto CC ):** [Link del Proyecto Carrito de Compras](https://pj2simulacionemailccjs.netlify.app)
+- **Proyecto 02 - Simulacion de envio de email ( Reto CC ):** [Link del Proyecto](https://pj2simulacionemailccjs.netlify.app)
 
+- **Proyecto 03 - Busqueda y Filtros para comprar un Auto:** [Link del Proyecto](https://pj3busquedayfiltrodeautosjs.netlify.app)
 
 Animo!
