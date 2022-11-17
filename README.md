@@ -15,5 +15,6 @@ Proyectos:
 
 - **Proyecto 04 - Simulacion de envio de Tweets (Uso de LocalStorage):** [Link del Proyecto](https://pj4tweetslocalstoragejs.netlify.app)
 
+- **Proyecto 05 - Carrito de Compras (Uso de LocalStorage):** [Link del Proyecto](https://pj5carritodecompraslocalstoragejs.netlify.app)
 
 Animo!
