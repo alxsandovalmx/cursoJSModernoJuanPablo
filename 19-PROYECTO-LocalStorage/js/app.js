@@ -51,7 +51,7 @@ function agregarTweet ( e ){
 
     const objTweet = {
         id: Date.now(), // Como ID obtiene los milisegundos        
-        // En JS reciente si son iguales puedes dejar solo uno
+        // En JS reciente si la llave y el nombre de la variable con el valor son iguales puedes dejar solo uno
         // tweet: tweet
         tweet 
     }
