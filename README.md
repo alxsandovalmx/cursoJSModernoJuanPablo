@@ -9,12 +9,14 @@ Este repositorio contiene todos proyectos del curso: JavaScript Moderno Guía De
 Proyectos:
 - **Proyecto 01 - Carrito de Compras:** [Link del Proyecto](https://pj1carritodecomprasjs.netlify.app)
 
-- **Proyecto 02 - Simulacion de envio de email ( Reto CC ):** [Link del Proyecto](https://pj2simulacionemailccjs.netlify.app)
+- **Proyecto 02 - Envio de email ( Reto CC ):** [Link del Proyecto](https://pj2simulacionemailccjs.netlify.app)
 
 - **Proyecto 03 - Busqueda y Filtros para comprar un Auto:** [Link del Proyecto](https://pj3busquedayfiltrodeautosjs.netlify.app)
 
-- **Proyecto 04 - Simulacion de envio de Tweets (Uso de LocalStorage):** [Link del Proyecto](https://pj4tweetslocalstoragejs.netlify.app)
+- **Proyecto 04 - Envio de Tweets (Uso de LocalStorage):** [Link del Proyecto](https://pj4tweetslocalstoragejs.netlify.app)
 
 - **Proyecto 05 - Carrito de Compras (Uso de LocalStorage):** [Link del Proyecto](https://pj5carritodecompraslocalstoragejs.netlify.app)
+
+- **Proyecto 06 - Cotizador de Seguros (Uso de Prototypes):** [Link del Proyecto](https://pj6simuladordesegurosprototypesjs.netlify.app)
 
 Animo!
