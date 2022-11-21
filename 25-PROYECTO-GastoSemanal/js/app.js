@@ -316,6 +316,5 @@ function eliminarGasto( id ){
     // Funcion para mostrar por colores segun el restante
     ui.comprobarPresupuesto( presupuesto );
 
-
 };
 
