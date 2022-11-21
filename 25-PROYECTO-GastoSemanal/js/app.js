@@ -1,4 +1,4 @@
-// Proyecto de una Aplicacion de Gasto mensual
+// Proyecto de una Aplicacion de Gasto Semanal
 // Usa Bootstrap como framework CSS
 
 // Variables
