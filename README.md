@@ -21,4 +21,6 @@ Proyectos:
 
 - **Proyecto 07 - Administrador del gasto semanal (Uso de Clases):** [Link del Proyecto](https://pj7administrargastosemanaljs.netlify.app)
 
+- **Proyecto 08 - Administrador de Citas de un Veterinario (Uso de Clases):** [Link del Proyecto](https://pj8administradorcitasveterinariojs.netlify.app)
+
 Animo!
