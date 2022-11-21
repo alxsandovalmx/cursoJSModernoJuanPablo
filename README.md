@@ -19,4 +19,6 @@ Proyectos:
 
 - **Proyecto 06 - Cotizador de Seguros (Uso de Prototypes):** [Link del Proyecto](https://pj6simuladordesegurosprototypesjs.netlify.app)
 
+- **Proyecto 07 - Administrador del gasto semanal (Uso de Clases):** [Link del Proyecto](https://pj7administrargastosemanaljs.netlify.app)
+
 Animo!
