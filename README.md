@@ -23,4 +23,6 @@ Proyectos:
 
 - **Proyecto 08 - Administrador de Citas de un Veterinario (Uso de Clases):** [Link del Proyecto](https://pj8administradorcitasveterinariojs.netlify.app)
 
+- **Proyecto 09 - Administrador de Citas de un Veterinario (Uso de Modulos):** [Link del Proyecto](https://pj9administradorcitasmodulosjs.netlify.app)
+
 Animo!
