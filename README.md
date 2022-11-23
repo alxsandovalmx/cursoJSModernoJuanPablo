@@ -27,4 +27,6 @@ Proyectos:
 
 - **Proyecto 10 - Administrador de Citas de un Veterinario (Uso de IndexedDB):** [Link del Proyecto](https://pj10administradorcitasindexeddbjs.netlify.app)
 
+- **Proyecto 11 - CRM de Clientes (Uso de IndexedDB):** [Link del Proyecto](https://pj11crmindexeddbjs.netlify.app/index.html)
+
 Animo!
