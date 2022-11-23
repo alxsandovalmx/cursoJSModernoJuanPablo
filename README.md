@@ -25,4 +25,6 @@ Proyectos:
 
 - **Proyecto 09 - Administrador de Citas de un Veterinario (Uso de Modulos):** [Link del Proyecto](https://pj9administradorcitasmodulosjs.netlify.app)
 
+- **Proyecto 10 - Administrador de Citas de un Veterinario (Uso de IndexedDB):** [Link del Proyecto](https://pj10administradorcitasindexeddbjs.netlify.app)
+
 Animo!
