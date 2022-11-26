@@ -29,4 +29,6 @@ Proyectos:
 
 - **Proyecto 11 - CRM de Clientes (Uso de IndexedDB):** [Link del Proyecto](https://pj11crmindexeddbjs.netlify.app/index.html)
 
+- **Proyecto 12 - Aplicacion de Clima (Uso de FETCH API):** [Link del Proyecto](https://pj12appclimafetchapijs.netlify.app)
+
 Animo!
