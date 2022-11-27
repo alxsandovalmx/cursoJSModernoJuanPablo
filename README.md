@@ -31,4 +31,6 @@ Proyectos:
 
 - **Proyecto 12 - Aplicacion de Clima (Uso de FETCH API):** [Link del Proyecto](https://pj12appclimafetchapijs.netlify.app)
 
+- **Proyecto 13 - Buscador de Recetas de Cocina (Uso de FETCH API):** [Link del Proyecto](https://pj13buscadorrecetascocinafetchapijs.netlify.app)
+
 Animo!
