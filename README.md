@@ -35,4 +35,6 @@ Proyectos:
 
 - **Proyecto 14 - Buscador de Imagenes en Pixabay (Uso de FETCH API):** [Link del Proyecto](https://pj14buscadorimgsapipixabayfetchapijs.netlify.app)
 
+- **Proyecto 15 - Cotizador de Criptomonedas (Uso de FETCH API):** [Link del Proyecto](https://pj15cotizadorcriptomonedasfetchapijs.netlify.app)
+
 Animo!
