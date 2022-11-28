@@ -33,4 +33,6 @@ Proyectos:
 
 - **Proyecto 13 - Buscador de Recetas de Cocina (Uso de FETCH API):** [Link del Proyecto](https://pj13buscadorrecetascocinafetchapijs.netlify.app)
 
+- **Proyecto 14 - Buscador de Imagenes en Pixabay (Uso de FETCH API):** [Link del Proyecto](https://pj14buscadorimgsapipixabayfetchapijs.netlify.app)
+
 Animo!
