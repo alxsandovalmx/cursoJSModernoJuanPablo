@@ -43,4 +43,6 @@ Proyectos:
   - `La url es local: http://localhost:4000/platillos`
   - `Para levantar el servidor con la API: json-server --watch db.json --port 4000`
 
+- **Proyecto 17 - Buscador de Imagenes en Pixabay (Uso de Async Await):** [Link del Proyecto](https://pj17buscadorimgpixabayasyncawaitjs.netlify.app)
+
 Animo!
