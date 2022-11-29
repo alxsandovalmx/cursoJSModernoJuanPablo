@@ -1,4 +1,4 @@
-// Proyecto Buscador de imagenes con Pixabay API
+// Proyecto Buscador de imagenes con Pixabay API con Async Await
 // Este proyecto usa Tailwind como framework CSS
 
 // Variables
