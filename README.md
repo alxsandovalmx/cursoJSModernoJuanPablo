@@ -37,4 +37,10 @@ Proyectos:
 
 - **Proyecto 15 - Cotizador de Criptomonedas (Uso de FETCH API):** [Link del Proyecto](https://pj15cotizadorcriptomonedasfetchapijs.netlify.app)
 
+- **Proyecto 16 - Aplicacion de Restaurante para consumos y cobros (Uso de REST API):** [Link del Proyecto](https://pj16restauranteconsumopropinarestapi.netlify.app)
+
+  - `Este proyecto usa JSon-Server: npm install -g json-server`
+  - `La url es local: http://localhost:4000/platillos`
+  - `Para levantar el servidor con la API: json-server --watch db.json --port 4000`
+
 Animo!
