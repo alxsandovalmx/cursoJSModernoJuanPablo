@@ -45,4 +45,6 @@ Proyectos:
 
 - **Proyecto 17 - Buscador de Imagenes en Pixabay (Uso de Async Await):** [Link del Proyecto](https://pj17buscadorimgpixabayasyncawaitjs.netlify.app)
 
+- **Proyecto 18 - Cotizador de Criptomonedas (Uso de Async Await):** [Link del Proyecto](https://pj18cotizadorcriptomonedaasyncawaitjs.netlify.app)
+
 Animo!
