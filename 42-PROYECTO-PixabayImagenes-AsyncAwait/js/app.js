@@ -95,7 +95,6 @@ function buscarImagenes ( ) {
             totalPaginas = calcularPaginas( resultado.totalHits );
             mostrarImagenes( resultado.hits );
         }) 
-
 }
 */
 
