@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRM - JSONServer</title>
+    <link rel="stylesheet" href="css/tailwind.min.css">
+</head>
+<body class="min-h-100 bg-gray-200">
+    <div class="md:flex min-h-screen md:align-top">
+        <aside class="md:w-2/5 lg:w-2/5 xl:w-1/5 bg-teal-600 px-5 py-10">
+            <h1 class="uppercase text-white tracking-wide text-2xl  font-bold mt-2">CRM - JSONServer</h1>
+            <p class="mt-10 text-white">Administra tus Clientes con el CRM - JSONServer</p>
+            <nav class="mt-8">
+                <a  
+                    href="/" 
+                    class="px-3 py-1 text-white block hover:bg-teal-700 hover:text-yellow-400 bg-teal-700"
+                >Clientes</a>
+                <a 
+                    href="nuevo-cliente.html" 
+                    class="px-3 py-1 text-white block hover:bg-teal-900 mt-2 hover:text-yellow-400"
+                >Nuevo Cliente</a>
+            </nav>
+        </aside> <!--sidebar-->
+        <main class="md:w-3/5  xl:w-4/5 px-5 py-10 bg-gray-200">
+            
+
+            
+
+            <h2 class="text-3xl font-light text-center">Clientes</h2>
+
+            <div class="flex flex-col mt-10">
+                <div class="py-2 overflow-x-auto">
+                  <div class="align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200">
+                    <table class="min-w-full">
+                        <thead class="bg-gray-100 ">
+                            <tr>
+                                <th class="px-6 py-3 border-b border-gray-200  text-left text-xs leading-4 font-medium text-gray-600 uppercase tracking-wider">
+                                        Nombre Cliente
+                                </th>
+                                <th class="px-6 py-3 border-b border-gray-200  text-left text-xs leading-4 font-medium text-gray-600 uppercase tracking-wider">
+                                        Teléfono
+                                </th>
+                                <th class="px-6 py-3 border-b border-gray-200  text-left text-xs leading-4 font-medium text-gray-600 uppercase tracking-wider">
+                                        Empresa
+                                </th>
+                                <th class="px-6 py-3 border-b border-gray-200  text-left text-xs leading-4 font-medium text-gray-600 uppercase tracking-wider">
+                                        Acciones
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody id="listado-clientes" class="bg-white"></tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+        </main>
+    </div>
+    <script src="js/app.js" type="module"></script>
+</body>
+</html>
