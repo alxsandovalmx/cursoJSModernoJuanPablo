@@ -47,4 +47,10 @@ Proyectos:
 
 - **Proyecto 18 - Cotizador de Criptomonedas (Uso de Async Await):** [Link del Proyecto](https://pj18cotizadorcriptomonedaasyncawaitjs.netlify.app)
 
+- **Proyecto 19 - CRM de Clientes con funciones CRUD (Uso de REST API):** [Link del Proyecto](https://pj19crmclientescrudrestapijs.netlify.app)
+
+  - `Este proyecto usa JSon-Server: npm install -g json-server`
+  - `La url es local: http://localhost:4000/clientes`
+  - `Para levantar el servidor con la API: json-server --watch db.json --port 4000`
+
 Animo!
