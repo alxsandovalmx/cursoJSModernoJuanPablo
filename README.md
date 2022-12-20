@@ -55,4 +55,9 @@ Proyectos:
 
 - **Proyecto 20 - PWA de Citas de un Veterinario:** [Link del Proyecto](https://pj20pwaadminpacientesveterinariajs.netlify.app)
 
+- **Proyecto 21 - Debug, Performance y Seguridad usando el proyecto de Cotizador de Criptomonedas:** [Link del Proyecto](https://pj21debugperformanceseguridadcriptojs.netlify.app)
+  - `Se analizó el performance con: const inicio = performance.now();`
+  - `Se trato el uso de: <script src="js/app.js" defer></script>`
+  - `Se analizó el código con: debugger;`
+
 Animo!
