@@ -53,4 +53,6 @@ Proyectos:
   - `La url es local: http://localhost:4000/clientes`
   - `Para levantar el servidor con la API: json-server --watch db.json --port 4000`
 
+- **Proyecto 20 - PWA de Citas de un Veterinario:** [Link del Proyecto](https://pj20pwaadminpacientesveterinariajs.netlify.app)
+
 Animo!
