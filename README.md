@@ -60,4 +60,12 @@ Proyectos:
   - `Se trato el uso de: <script src="js/app.js" defer></script>`
   - `Se analizó el código con: debugger;`
 
+- **Proyecto 22 - Testing con JEST usando el proyecto Citas de un Veterinario:**
+
+  - `Crear el archivo de configuracion package.json: npm init`
+  - `Instalar las dependencias de desarrollo: npm i --save-dev jest`
+  - `Especificar el script de pruebas: "scripts": {"test": "jest"},`
+  - `Para usar los imports, crear el archivo .babelrc y agregar la dependencia: npm i --save-dev @babel/preset-env`
+  -	`Ejecutar las pruebas: npm run test`
+
 Animo!
