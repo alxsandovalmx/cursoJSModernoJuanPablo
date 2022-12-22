@@ -68,4 +68,13 @@ Proyectos:
   - `Para usar los imports, crear el archivo .babelrc y agregar la dependencia: npm i --save-dev @babel/preset-env`
   -	`Ejecutar las pruebas: npm run test`
 
+- **Proyecto 23 - Testing con CYPRESS usando el proyecto Citas de un Veterinario:**
+
+  - `Crear el archivo de configuracion package.json: npm init`
+  - `Instalar las dependencias de desarrollo: npm install --save-dev cypress`
+  - `Se establecen las configuraciones necesarias en el archivo: cypress.config.js`
+  - `Se crea la carpeta: e2e que contendra los archivos de prueba con extension: .cy.js`
+  -	`Ejecutar las pruebas en el modo de aplicacion: npx cypress open`
+  -	`Ejecutar las pruebas en el modo CLI: npx cypress run --browser chrome`
+
 Animo!
