@@ -1,0 +1,168 @@
+:root {
+    font-family: 'Staatliches', cursive;
+    font-family: 'Covered By Your Grace', cursive;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3 {
+    font-family: 'Staatliches', cursive;
+    color: #15B9D5;
+}
+h1 {
+    font-size: 3.4rem;
+}
+h2 {
+    font-size: 2.4rem;
+}
+h3 {
+    font-size: 3rem;
+}
+
+.btn-success {
+    background-color: #DC135F;
+    border-color: #DC135F;
+    padding: .8rem 0;
+    text-transform: uppercase;
+    border-radius: .8rem;
+}
+.btn-success:hover {
+    background-color: rgb(184, 5, 73);
+    border-color: rgb(192, 7, 78);
+}
+.slider {
+    background: url(../img//superior.jpg);
+    min-height: 600px;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.slider h1 {
+    color: white;
+}
+.slider em {
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 4rem;
+    order: -1;
+    line-height: .8;
+    color: rgba(255, 255, 255, .5);
+}
+@media (min-width:768px) {
+    .slider em {
+        font-size: 8rem;
+    }
+}
+.home {
+    position: relative;
+}
+.home .navegacion {
+    background: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.nav-link.active {
+    border-bottom: 5px solid white;
+}
+blockquote {
+    font-weight: bold;
+    line-height: 2;
+}
+p {
+    font-size: 1.2rem;
+    line-height: 2;
+}
+.navegacion {
+    background-color: #15B9D5;
+}
+header .nav a {
+    font-family: 'Staatliches', cursive;
+    font-size: 2rem;
+    color: white;
+}
+footer .nav a,
+.copyright {
+    font-family: 'Staatliches', cursive;
+    font-size: 1.6rem;
+    color: black;
+}
+.listado-iconos {
+    background-color: rgb(245, 245, 245);
+}
+.listado-iconos img {
+    height: 100px;
+}
+
+
+.descuento {
+    height: 400px;
+    background-image: linear-gradient( rgba(0, 0, 0, .5) 0%,  rgba(0, 0, 0, .5) 100%),  url(../img/cupon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media (min-width:768px) {
+    .descuento {
+        height: 400px;
+        background-image:  linear-gradient(
+            to right, 
+            rgba(0, 0, 0, .5) 0%, 
+            rgba(0, 0, 0, .5) 50%, 
+            transparent 50%, 
+            transparent 100%
+        ), url(../img/cupon.jpg);
+    }
+}
+.descuento .contenido {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400px;
+    color: white;
+}
+.descuento p {
+    font-family: 'Staatliches', cursive;
+    line-height: .8;
+}
+.descuento .titulo {
+    font-size: 2.4rem;
+}
+.descuento .precio {
+    color: #15B9D5;
+    font-size: 3rem;
+}
+
+.proximos-viajes p {
+    font-size: .9rem;
+}
+i {
+    color: #DC135F;
+    font-size: 2rem;
+}
+
+.testimoniales p{
+    font-size: .8rem;
+    font-weight: normal;
+}
+.testimoniales p::before {
+    background-image: url(../img/quote.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 40px;
+    content: '';
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin-bottom: 1rem;
+}
+.blockquote-footer {
+    text-align: right;
+    color: #DC135F;
+    font-weight: bold;
+    margin-top: 1rem;
+}

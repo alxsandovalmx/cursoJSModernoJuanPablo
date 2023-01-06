@@ -1,0 +1,36 @@
+//- Archivo PUG
+
+//- Importa el Master Page
+extends ./layout/index
+
+block slider
+    .slider
+        h1 Rio de Janeiro
+        em aventura
+
+block contenido
+    main.container.mt-5
+        h2.text-center.mb-5 Sobre Nosotros
+        .row.mb-5
+            .col-md-6
+                p Donec vulputate lacinia orci, sit amet lacinia urna laoreet vitae. Vivamus sit amet accumsan dui. Curabitur mi felis, sagittis eu fringilla id, feugiat nec felis. Sed at est et eros euismod faucibus et vitae libero. Vestibulum quis faucibus magna. In dapibus massa nibh, eu aliquet arcu feugiat sit amet. Pellentesque sollicitudin at nunc sit amet pharetra. Quisque porta ligula purus, non pellentesque quam feugiat in. Nullam aliquet nisi vel leo bibendum tincidunt.
+                p Aliquam ut suscipit sapien, non tincidunt felis. Morbi mollis mi sit amet ultricies ultrices. Mauris sed aliquet lorem. Morbi egestas libero vitae dictum tincidunt. Maecenas eleifend nisl quis velit fermentum ullamcorper. Proin feugiat semper sem, id sagittis ex porttitor blandit. Vivamus placerat vulputate erat ac efficitur. Duis ante velit, dictum ut nunc rhoncus, varius auctor urna. Cras ac faucibus lacus, lobortis iaculis quam.
+            .col-md-6
+                img(src="/img/inicio_nosotros.jpg", alt="Imagen nosotros", class="img-fluid")
+        
+        include ./layout/bloque_viajes
+
+    .descuento
+        .container 
+            .row 
+                .col-md-6 
+                    .contenido 
+                        h3 5% de Descuento 
+                        p.titulo Viaje a Canada 
+                        p.fecha 5 de Enero de 2023 - 28 de Enero de 2023
+                        p.precio $2,500 USD
+
+    .container
+        h2.mt-5.text-center Testimoniales
+        include ./layout/bloque_testimoniales
+

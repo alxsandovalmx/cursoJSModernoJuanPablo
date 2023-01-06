@@ -1,0 +1,9 @@
+//- Archivo PUG
+
+//- Importa el Master Page
+extends ./layout/index
+
+block contenido
+    h1(class="mt-5 text-center") #{pagina}
+    main.container.mt-5
+        include ./layout/bloque_viajes

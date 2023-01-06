@@ -1,0 +1,36 @@
+//- Archivo PUG
+
+//- Importa el Master Page
+extends ./layout/index
+
+block contenido
+    main.container.mt-5
+        .row
+            .col-md-5
+                img(src="img/nosotros.jpg", alt="Imagen sobre nosotros", class="img-fluid")
+            .col.md-7
+                h1 #{pagina}
+                blockquote aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas malesuada, ante quis dapibus eleifend, quam magna sodales felis, quis ultricies neque urna malesuada augue. Suspendisse feugiat a libero id mollis. In vel dui facilisis quam gravida feugiat. Vivamus id magna ipsum. Vivamus eleifend viverra vestibulum. Integer odio orci, ultricies non enim non, hendrerit tempus sapien.
+
+                p feugiat vestibulum nibh, vel bibendum tellus tempor vitae. Donec lacinia nulla non lacus tempor, ut molestie velit tempor. Proin non placerat justo. Donec erat lacus, auctor vel semper lacinia, aliquam vitae lectus. Quisque id augue felis. Nam blandit ante urna, consectetur congue justo aliquet et. Praesent condimentum quam ex, id placerat lorem commodo ut. Fusce in mi posuere nunc posuere auctor in nec lorem.
+
+                p sollicitudin metus porta risus interdum dictum vitae at sem. Nunc ligula mi, viverra eu lacinia quis, convallis nec quam. Phasellus ullamcorper tortor et purus condimentum rutrum. Morbi tortor mi, condimentum id imperdiet ut, fermentum sed neque. Nunc eleifend erat lacinia, tincidunt lectus at, auctor ipsum.
+
+    .listado-iconos
+        .container.mt-5.py-5.text-center
+            .row
+                .col-md-4
+                    img(src="img/icono_seguridad.svg", alt="Icono seguridad" class="img-fluid mb-4")
+                    h2.mb-4 Seguridad
+                    p sollicitudin metus porta risus interdum dictum vitae at sem. Nunc ligula mi, viverra eu lacinia quis, convallis nec quam. Phasellus ullamcorper tortor et purus condimentum rutrum. Morbi tortor mi, condimentum id imperdiet ut, fermentum sed neque. Nunc eleifend erat lacinia, tincidunt lectus at, auctor ipsum.
+
+                .col-md-4
+                    img(src="img/icono_destinos.svg", alt="Icono seguridad" class="img-fluid mb-4")
+                    h2.mb-4 Mejores Destinos
+                    p sollicitudin metus porta risus interdum dictum vitae at sem. Nunc ligula mi, viverra eu lacinia quis, convallis nec quam. Phasellus ullamcorper tortor et purus condimentum rutrum. Morbi tortor mi, condimentum id imperdiet ut, fermentum sed neque. Nunc eleifend erat lacinia, tincidunt lectus at, auctor ipsum.                    
+
+                .col-md-4
+                    img(src="img/icono_precios.svg", alt="Icono seguridad" class="img-fluid mb-4")
+                    h2.mb-4 Mejores Precios
+                    p sollicitudin metus porta risus interdum dictum vitae at sem. Nunc ligula mi, viverra eu lacinia quis, convallis nec quam. Phasellus ullamcorper tortor et purus condimentum rutrum. Morbi tortor mi, condimentum id imperdiet ut, fermentum sed neque. Nunc eleifend erat lacinia, tincidunt lectus at, auctor ipsum.
+
