@@ -56,6 +56,7 @@ Proyectos:
 - **Proyecto 20 - PWA de Citas de un Veterinario:** [Link del Proyecto](https://pj20pwaadminpacientesveterinariajs.netlify.app)
 
 - **Proyecto 21 - Debug, Performance y Seguridad usando el proyecto de Cotizador de Criptomonedas:** [Link del Proyecto](https://pj21debugperformanceseguridadcriptojs.netlify.app)
+
   - `Se analizó el performance con: const inicio = performance.now();`
   - `Se trato el uso de: <script src="js/app.js" defer></script>`
   - `Se analizó el código con: debugger;`
@@ -76,5 +77,14 @@ Proyectos:
   - `Se crea la carpeta: e2e que contendra los archivos de prueba con extension: .cy.js`
   -	`Ejecutar las pruebas en el modo de aplicacion: npx cypress open`
   -	`Ejecutar las pruebas en el modo CLI: npx cypress run --browser chrome`
+
+- **Proyecto 25 - Cotizador de Prestamos usando React:** [Link del Proyecto](https://pj25cotizadorprestamosreact.netlify.app)
+
+  - `Este proyecto usa Vite: npm create vite@latest`
+  - `Dentro de proyecto ejecutar: npm install`
+  - `Para levantar el servidor: npm run dev`
+  - `Para instalar Tailwind en React: npm install -D tailwindcss postcss autoprefixer`
+  -	`Para crear los archivos de configuracion de Tailwind: npx tailwindcss init -p`
+  -	`Para hacer el Deployment del proyecto: npm run build`
 
 Animo!
