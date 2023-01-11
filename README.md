@@ -77,7 +77,18 @@ Proyectos:
   - `Se crea la carpeta: e2e que contendra los archivos de prueba con extension: .cy.js`
   -	`Ejecutar las pruebas en el modo de aplicacion: npx cypress open`
   -	`Ejecutar las pruebas en el modo CLI: npx cypress run --browser chrome`
+  
+- **Proyecto 24 - Agencia de Viajes usando Node, Express, Sequelize y Pug:** [Link del Proyecto](https://pj24agenciaviajesnodeexpresssequelizepug.up.railway.app)
 
+  - `Instalar Node e iniciar el proyecto: npm init`
+  - `Instalación de Express: npm install express`
+  - `Instalación de las dependencias de desarrollo: npm install --save-dev nodemon`
+  - `Instalación de Pug: npm install pug`
+  -	`Instalar MySql, para usarlo en la terminal de MAC: export PATH=$PATH:/usr/local/mysql/bin e instalar TablePlus`
+  -	`Instalar Sequelize: npm install mysql2 sequelize`
+  -	`Instalar dotenv para proteger las variables de entorno: npm i dotenv`
+  -	`Subir el proyecto a Railway, conectar con Github, importar el esquema de MySQL y poner las variables de entorno`
+  
 - **Proyecto 25 - Cotizador de Prestamos usando React:** [Link del Proyecto](https://pj25cotizadorprestamosreact.netlify.app)
 
   - `Este proyecto usa Vite: npm create vite@latest`
