@@ -98,4 +98,13 @@ Proyectos:
   -	`Para crear los archivos de configuracion de Tailwind: npx tailwindcss init -p`
   -	`Para hacer el Deployment del proyecto: npm run build`
 
+- **Proyecto 26 - Cotizador de Prestamos usando Vue:** [Link del Proyecto](https://pj26cotizadorprestamosvue.netlify.app)
+
+  - `Este proyecto usa Vite: npm create vite@latest`
+  - `Dentro de proyecto ejecutar: npm install`
+  - `Para levantar el servidor: npm run dev`
+  - `Para instalar Tailwind en Vue: npm install -D tailwindcss postcss autoprefixer`
+  -	`Para crear los archivos de configuracion de Tailwind: npx tailwindcss init -p`
+  -	`Para hacer el Deployment del proyecto: npm run build`
+
 Animo!
