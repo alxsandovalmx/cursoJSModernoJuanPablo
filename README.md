@@ -107,4 +107,13 @@ Proyectos:
   -	`Para crear los archivos de configuracion de Tailwind: npx tailwindcss init -p`
   -	`Para hacer el Deployment del proyecto: npm run build`
 
+- **Proyecto 27 - Proyecto FullStack JavaScript MERN: APV:** [Link del Proyecto](https://pj27fullstackjsmernfrontend.netlify.app)
+
+  - `Las instrucciones están contenidas en cada uno de los repositorios.`
+  - `Link del Repositorio del Backend:` [Repositorio Backend](https://github.com/alxsandoval/MERN_APV_Backend)
+  - `Tecnologías utilizadas en el Backend: Mongo DB, Compass, Node, Express, Nodemon, ORM Mongoose, Dotenv, Bcrypt, Cors, Nodemailer, JWT, Railway y Git.`
+  - `Link del Repositorio del FrontEnd:` [Repositorio Frontend](https://github.com/alxsandoval/MERN_APV_Frontend)
+  - `Tecnologías utilizadas en el Frontend: Vite, TailwindCSS, React Router Dom, Axios, Netlify y Git.`
+
+
 Animo!
