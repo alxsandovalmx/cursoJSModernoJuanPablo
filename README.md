@@ -2,7 +2,7 @@
 
 ## Notas del Curso.
 
-Este repositorio contiene todos proyectos del curso: JavaScript Moderno Guía Definitiva Construye +20 Proyectos de Juan Pablo de la Torre
+Este repositorio contiene todos archivos, proyectos y notas del curso: JavaScript Moderno Guía Definitiva Construye +20 Proyectos de Juan Pablo de la Torre
 
 [Link del Curso](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
 
@@ -115,5 +115,11 @@ Proyectos:
   - `Link del Repositorio del FrontEnd:` [Repositorio Frontend](https://github.com/alxsandoval/MERN_APV_Frontend)
   - `Tecnologías utilizadas en el Frontend: Vite, TailwindCSS, React Router Dom, Axios, Netlify y Git.`
 
+#### ¡Terminé! 😎
 
-Animo!
+[Link del PDF con las Notas del Curso](https://acortar.link/2aYXgQ)
+
+[Link del Certificado de Finalización](https://www.udemy.com/certificate/UC-422b3f89-aac5-4fba-aaa3-bec7351507e3/)
+
+**14/Feb/2023 - 16:17 hrs** <br>
+**Tijuana, B.C., México**
